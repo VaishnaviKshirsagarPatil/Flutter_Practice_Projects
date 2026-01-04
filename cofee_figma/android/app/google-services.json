@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199841501714",
+    "project_id": "coffefigma",
+    "storage_bucket": "coffefigma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199841501714:android:b596b6f53fb72f89a6becb",
+        "android_client_info": {
+          "package_name": "com.example.cofee_figma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAwZ8V1fELx7M8V6l6HIsNlQtWMGewuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
